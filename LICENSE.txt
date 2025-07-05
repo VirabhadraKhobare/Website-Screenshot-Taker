@@ -1,0 +1,4 @@
+MIT License
+
+This software is protected. Unauthorized copying, distribution, or reverse-engineering is prohibited.
+© 2025 Virbhadra Khobare

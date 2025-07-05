@@ -1,0 +1,29 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Environments
+.venv/
+env/
+venv/
+
+# Executables
+*.exe
+
+# Drivers and binaries
+driver_hidden/
+chromedriver.exe
+
+# PyInstaller builds
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
